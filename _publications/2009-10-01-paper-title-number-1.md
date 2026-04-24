@@ -3,7 +3,7 @@ title: "Phase Transition in the Multifractal Spectrum of Diffusion-Limited Aggre
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt:
 date: 1988-12-26
 venue: 'Physical Review Letters'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
