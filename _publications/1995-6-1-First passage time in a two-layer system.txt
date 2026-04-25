@@ -1,0 +1,13 @@
+---
+title: "First passage time in a two-layer system"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 1995-6-1
+venue: 'Journal of Statistical Physics'
+slidesurl: 
+paperurl: https://link.springer.com/article/10.1007/BF02181208
+bibtexurl: 
+citation: 
+---
