@@ -1,0 +1,13 @@
+---
+title: "Scaling behavior of granular particles in a vibrating box"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 1995-10-1
+venue: 'Physica A'
+slidesurl: 
+paperurl: https://www.sciencedirect.com/science/article/abs/pii/037843719500194C
+bibtexurl: 
+citation: 
+---
