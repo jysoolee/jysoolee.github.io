@@ -1,0 +1,13 @@
+---
+title: "Density waves in the flows of granular media"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 1994-1-1
+venue: 'Physical Review E'
+slidesurl: 
+paperurl: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.49.281
+bibtexurl: 
+citation: 
+---
