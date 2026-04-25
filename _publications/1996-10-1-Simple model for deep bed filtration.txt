@@ -1,0 +1,13 @@
+---
+title: "Simple model for deep bed filtration"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 1996-10-1
+venue: 'Physical Review E'
+slidesurl: 
+paperurl: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.54.4011
+bibtexurl: 
+citation: 
+---
