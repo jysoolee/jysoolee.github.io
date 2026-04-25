@@ -1,0 +1,13 @@
+---
+title: "Density waves in granular flow: a kinetic wave approach"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 1994-4-1
+venue: 'Journal de Physique I'
+slidesurl: 
+paperurl: https://jp1.journaldephysique.org/articles/jp1/abs/1994/04/jp1v4p507/jp1v4p507.html
+bibtexurl: 
+citation: 
+---
