@@ -1,0 +1,13 @@
+---
+title: "Diffusion limited aggregation: a paradigm of disorderly cluster growth"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 1994-4-1
+venue: 'Physica A'
+slidesurl: 
+paperurl: https://www.sciencedirect.com/science/article/abs/pii/0378437194905037
+bibtexurl: 
+citation: 
+---
