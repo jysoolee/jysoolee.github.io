@@ -1,0 +1,13 @@
+---
+title: "Subharmonic motion of particles in a vibrating tube"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 1998-8-1
+venue: 'Physical Review E'
+slidesurl: 
+paperurl: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.58.R1218
+bibtexurl: 
+citation: 
+---
