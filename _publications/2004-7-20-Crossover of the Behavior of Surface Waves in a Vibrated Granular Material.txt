@@ -1,0 +1,13 @@
+---
+title: "Crossover of the Behavior of Surface Waves in a Vibrated Granular Material"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 2004-7-20
+venue: 'Proceedings of HPCAsia 2004'
+slidesurl: 
+paperurl: https://dl.acm.org/doi/10.5555/1018421.1019775
+bibtexurl: 
+citation: 
+---
