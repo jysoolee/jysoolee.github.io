@@ -1,0 +1,13 @@
+---
+title: "The mechanism of the self-assembly of associating DNA molecules under shear flow: Brownian dynamics simulation"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 2005-5-11
+venue: 'Journal of Chemical Physics'
+slidesurl: 
+paperurl: https://pubs.aip.org/aip/jcp/article-abstract/122/18/184905/909547/The-mechanism-of-the-self-assembly-of-associating?redirectedFrom=fulltext
+bibtexurl: 
+citation: 
+---
