@@ -1,0 +1,13 @@
+---
+title: "Mechanism for surface waves in vibrated granular material"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 1999-8-1
+venue: 'Europhysics Letters'
+slidesurl: 
+paperurl: https://iopscience.iop.org/article/10.1209/epl/i1999-00418-8
+bibtexurl: 
+citation: 
+---
