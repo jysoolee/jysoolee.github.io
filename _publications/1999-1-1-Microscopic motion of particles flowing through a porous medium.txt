@@ -1,0 +1,13 @@
+---
+title: "Microscopic motion of particles flowing through a porous medium"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 1999-1-1
+venue: 'Physics of Fluids'
+slidesurl: 
+paperurl: https://pubs.aip.org/aip/pof/article-abstract/11/1/76/455370/Microscopic-motion-of-particles-flowing-through-a?redirectedFrom=fulltext
+bibtexurl: 
+citation: 
+---
