@@ -1,0 +1,13 @@
+---
+title: "Subharmonic bifurcations of standing wave lattices in a driven ferrofluid system"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 2002-5-22
+venue: 'Physical Review E'
+slidesurl: 
+paperurl: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.65.056222
+bibtexurl: 
+citation: 
+---
