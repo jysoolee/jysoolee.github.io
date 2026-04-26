@@ -1,0 +1,13 @@
+---
+title: "Reconfigurable middleware for grid environment"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 2005-9-7
+venue: 'ISHPC'05/ALPS'06: Proceedings of the 6th international symposium on high-performance computing and 1st international conference on Advanced low power systems'
+slidesurl: 
+paperurl: https://dl.acm.org/doi/10.5555/1783214.1783239
+bibtexurl: 
+citation: 
+---
