@@ -1,0 +1,13 @@
+---
+title: "Phase Transition on DLA"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 1988-1-1
+venue: 'Proceedings of Random Fluctuations and Pattern Growth: Experiments and Models'
+slidesurl: 
+paperurl: https://link.springer.com/chapter/10.1007/978-94-009-2653-0_43
+bibtexurl: 
+citation: 
+---
