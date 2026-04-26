@@ -1,0 +1,13 @@
+---
+title: "Slow relaxation of randomly packed hard spheres"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 2007-8-1
+venue: 'Journal of Physics: Condensed Matter'
+slidesurl: 
+paperurl: https://iopscience.iop.org/article/10.1088/0953-8984/19/35/356202
+bibtexurl: 
+citation: 
+---
