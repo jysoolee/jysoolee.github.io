@@ -1,0 +1,13 @@
+---
+title: "Protocol transparent application framework for Grid"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 2005-11-30
+venue: 'Proceedings of HPCAsia 2005'
+slidesurl: 
+paperurl: https://dl.acm.org/doi/10.1109/HPCASIA.2005.80
+bibtexurl: 
+citation: 
+---
