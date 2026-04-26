@@ -1,0 +1,13 @@
+---
+title: "Is There a Phase Transition in the Multifractal Spectrum of DLA?"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 1989-1-1
+venue: 'Proceedings of Fractals’ Physical Origin and Properties'
+slidesurl: 
+paperurl: https://link.springer.com/chapter/10.1007/978-1-4899-3499-4_10
+bibtexurl: 
+citation: 
+---
