@@ -1,0 +1,13 @@
+---
+title: "Circular kinks on the surface of granular material rotated in a tilted spinning bucket"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 1999-6-7
+venue: 'Physical Review Letters'
+slidesurl: 
+paperurl: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.82.4639
+bibtexurl: 
+citation: 
+---
