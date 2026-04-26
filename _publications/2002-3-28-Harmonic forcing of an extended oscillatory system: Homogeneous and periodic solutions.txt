@@ -1,0 +1,13 @@
+---
+title: "Harmonic forcing of an extended oscillatory system: Homogeneous and periodic solutions"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 2002-3-28
+venue: 'Physical Review E'
+slidesurl: 
+paperurl: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.65.046208
+bibtexurl: 
+citation: 
+---
