@@ -1,0 +1,13 @@
+---
+title: "Crossover of the behavior of surface waves in a vibrated granular material"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 2004-11-1
+venue: 'Physica A'
+slidesurl: 
+paperurl: https://www.sciencedirect.com/science/article/abs/pii/S0378437104006909
+bibtexurl: 
+citation: 
+---
