@@ -4,10 +4,10 @@ collection: publications
 category: manuscripts
 permalink:
 excerpt:
-date: 1993-8-1
+date: 2003-2-26
 venue: 'Physical Review E'
 slidesurl: 
-paperurl: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.48.1305
+paperurl: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.67.026218
 bibtexurl: 
 citation: 
 ---
