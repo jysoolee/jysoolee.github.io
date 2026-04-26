@@ -1,0 +1,13 @@
+---
+title: "HVEM grid: experiences in constructing an electron microscopy grid"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 2006-1-16
+venue: 'APWeb'06: Proceedings of the 8th Asia-Pacific Web conference on Frontiers of WWW Research and Development'
+slidesurl: 
+paperurl: https://dl.acm.org/doi/10.1007/11610113_125
+bibtexurl: 
+citation: 
+---
