@@ -1,13 +1,13 @@
 ---
-title: "Localization of growth sites in diffusion-limited-aggregation clusters: Multifractality and multiscaling"
+title: "Does Hard Core Interaction Change Absorbing-Type Critical Phenomena?"
 collection: publications
 category: manuscripts
 permalink:
 excerpt:
-date: 1993-8-1
-venue: 'Physical Review E'
+date: 2000-8-21
+venue: 'Physical Review Letters'
 slidesurl: 
-paperurl: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.48.1305
+paperurl: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.85.1682
 bibtexurl: 
 citation: 
 ---
