@@ -1,0 +1,13 @@
+---
+title: "Localization of growth sites in diffusion-limited-aggregation clusters: Multifractality and multiscaling"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 1993-8-1
+venue: 'Physical Review E'
+slidesurl: 
+paperurl: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.48.1305
+bibtexurl: 
+citation: 
+---
