@@ -1,0 +1,13 @@
+---
+title: "Network model for deep bed filtration"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 2001-5-1
+venue: 'Physics of Fluids'
+slidesurl: 
+paperurl: https://pubs.aip.org/aip/pof/article-abstract/13/5/1076/255159/Network-model-for-deep-bed-filtration?redirectedFrom=fulltext
+bibtexurl: 
+citation: 
+---
