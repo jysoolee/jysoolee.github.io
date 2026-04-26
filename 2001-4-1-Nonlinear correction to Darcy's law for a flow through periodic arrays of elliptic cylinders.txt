@@ -1,0 +1,13 @@
+---
+title: "Nonlinear correction to Darcy's law for a flow through periodic arrays of elliptic cylinders"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 2001-4-1
+venue: 'Physica A'
+slidesurl: 
+paperurl: https://www.sciencedirect.com/science/article/abs/pii/S0378437100003290
+bibtexurl: 
+citation: 
+---
