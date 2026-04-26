@@ -1,0 +1,13 @@
+---
+title: "Resonant Superlattice Patterns in a Driven Ferrofluid System"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 2002-11-1
+venue: 'Journal of Korean Physical Society'
+slidesurl: 
+paperurl: https://www.jkps.or.kr/journal/view.html?uid=5151&vmd=Full
+bibtexurl: 
+citation: 
+---
