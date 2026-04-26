@@ -1,0 +1,13 @@
+---
+title: "Depinning transition of a pattern forming system in a washboard potential"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 2004-7-26
+venue: 'Physical Review E'
+slidesurl: 
+paperurl: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.70.016213
+bibtexurl: 
+citation: 
+---
