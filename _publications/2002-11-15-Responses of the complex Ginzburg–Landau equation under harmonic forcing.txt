@@ -1,0 +1,13 @@
+---
+title: "Responses of the complex Ginzburg–Landau equation under harmonic forcing"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 2002-11-15
+venue: 'Physica A'
+slidesurl: 
+paperurl: https://www.sciencedirect.com/science/article/abs/pii/S0378437102012438
+bibtexurl: 
+citation: 
+---
