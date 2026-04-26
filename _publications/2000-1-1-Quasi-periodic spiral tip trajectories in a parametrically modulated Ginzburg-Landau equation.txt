@@ -1,0 +1,13 @@
+---
+title: "Quasi-periodic spiral tip trajectories in a parametrically modulated Ginzburg-Landau equation"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 2000-1-1
+venue: 'Proceedings of Stochastic Dynamics and Pattern Formation in Biological and Complex Systems'
+slidesurl: 
+paperurl: https://www.amazon.in/Stochastic-Dynamics-Pattern-Formation-Biological/dp/1563969149
+bibtexurl: 
+citation: 
+---
