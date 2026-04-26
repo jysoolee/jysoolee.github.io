@@ -1,0 +1,13 @@
+---
+title: "Superlattice, Rhombus, Square, and Hexagonal Standing Waves in Magnetically Driven Ferrofluid Surface"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 2000-6-5
+venue: 'Physical Review Letters'
+slidesurl: 
+paperurl: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.84.5316
+bibtexurl: 
+citation: 
+---
