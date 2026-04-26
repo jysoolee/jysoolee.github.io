@@ -1,0 +1,13 @@
+---
+title: "Spiral waves in a coupled network of sine-circle maps"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 2003-7-14
+venue: 'Physical Review E'
+slidesurl: 
+paperurl: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.68.016208
+bibtexurl: 
+citation: 
+---
