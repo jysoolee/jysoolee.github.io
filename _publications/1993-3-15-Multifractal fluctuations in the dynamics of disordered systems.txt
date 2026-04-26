@@ -1,0 +1,13 @@
+---
+title: "Multifractal fluctuations in the dynamics of disordered systems"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 1993-3-15
+venue: 'Physica A'
+slidesurl: 
+paperurl: https://www.sciencedirect.com/science/article/pii/0378437193903617
+bibtexurl: 
+citation: 
+---
