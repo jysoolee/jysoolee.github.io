@@ -1,0 +1,13 @@
+---
+title: "Dynamic mechanisms of disorderly growth"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 1993-1-1
+venue: 'Proceedings of the XVIth International Workshop on Condensed-Matter Theories'
+slidesurl: 
+paperurl: https://www.amazon.com/Condensed-Matter-Theories-Theory/dp/1461362741/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.Q8jOR0_3nub_F0wF02uVDRpEvGjoVhtzPvWBMAC30NEIgCIi34ZFvfxVc3L5gz7afI7glAcziu-_M5vmMPN1N1nM2tzy5wuW71j35SdPR6bdsTAssde5E-dvxWSJzMWE.CjOJ5J7GuX4u-oSyCB5SC-qjZUKhqDLdXQYGq2HYLgw&qid=1777204761&sr=1-1#
+bibtexurl: 
+citation: 
+---
