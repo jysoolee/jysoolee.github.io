@@ -1,0 +1,13 @@
+---
+title: "Dynamic mechanisms of disorderly growth: Recent approaches to understanding diffusion limited aggregation"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 1990-9-1
+venue: 'Physical A'
+slidesurl: 
+paperurl: https://www.sciencedirect.com/science/article/pii/037843719090356W
+bibtexurl: 
+citation: 
+---
