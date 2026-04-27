@@ -5,7 +5,7 @@ category: manuscripts
 permalink:
 excerpt:
 date: 2006-5-28
-venue: 'ICCS'06: Proceedings of the 6th international conference on Computational Science'
+venue: 'ICCS 2006: Proceedings of the 6th international conference on Computational Science'
 slidesurl: 
 paperurl: https://dl.acm.org/doi/10.1007/11758501_172
 bibtexurl: 
