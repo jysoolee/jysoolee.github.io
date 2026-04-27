@@ -5,7 +5,7 @@ category: manuscripts
 permalink:
 excerpt:
 date: 2007-1-21
-venue: 'GCCB'06: Proceedings of the 2006 international conference on Distributed, high-performance and grid computing in computational biology'
+venue: 'GCCB 2006: Proceedings of the 2006 international conference on Distributed, high-performance and grid computing in computational biology'
 slidesurl: 
 paperurl: https://dl.acm.org/doi/10.5555/1765588.1765605
 bibtexurl: 
