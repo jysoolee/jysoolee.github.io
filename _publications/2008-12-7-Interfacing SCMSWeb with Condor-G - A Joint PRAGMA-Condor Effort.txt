@@ -5,7 +5,7 @@ category: manuscripts
 permalink:
 excerpt:
 date: 2008-12-7
-venue: 'ESCIENCE '08: Proceedings of the 2008 Fourth IEEE International Conference on eScience'
+venue: 'ESCIENCE 2008: Proceedings of the 2008 Fourth IEEE International Conference on eScience'
 slidesurl: 
 paperurl: https://dl.acm.org/doi/10.1109/eScience.2008.32
 bibtexurl: 
