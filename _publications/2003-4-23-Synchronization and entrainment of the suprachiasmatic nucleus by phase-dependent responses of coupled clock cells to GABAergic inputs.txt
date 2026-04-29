@@ -1,5 +1,5 @@
 ---
-title: "Synchronization and entrainment of the suprachiasmatic nucleus by phase-dependent responses of coupled clock cells to GABAergic input"
+title: "Synchronization and entrainment of the suprachiasmatic nucleus by phase-dependent responses of coupled clock cells to GABAergic inputs"
 collection: publications
 category: manuscripts
 permalink:
