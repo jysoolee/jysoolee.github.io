@@ -1,0 +1,13 @@
+---
+title: "Synchronization and entrainment of the suprachiasmatic nucleus by phase-dependent responses of coupled clock cells to GABAergic input"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 2003-4-23
+venue: 'Unpublished'
+slidesurl: 
+paperurl: https://jysoolee.github.io/files/KRKKJLL.pdf
+bibtexurl: 
+citation: 
+---
