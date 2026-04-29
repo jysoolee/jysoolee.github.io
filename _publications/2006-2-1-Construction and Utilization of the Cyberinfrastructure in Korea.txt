@@ -1,0 +1,13 @@
+---
+title: "Construction and Utilization of the Cyberinfrastructure in Korea"
+collection: publications
+category: manuscripts
+permalink:
+excerpt:
+date: 2006-2-1
+venue: 'CT Watch Quarterly, Vol 2, No 1'
+slidesurl: 
+paperurl: https://jysoolee.github.io/files/CTWatchquarterly-5.pdf
+bibtexurl: 
+citation: 
+---
