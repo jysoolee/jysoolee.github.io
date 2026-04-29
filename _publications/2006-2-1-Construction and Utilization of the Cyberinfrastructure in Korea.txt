@@ -7,7 +7,7 @@ excerpt:
 date: 2006-2-1
 venue: 'CT Watch Quarterly, Vol 2, No 1'
 slidesurl: 
-paperurl: https://jysoolee.github.io/files/CTWatchquarterly-5.pdf
+paperurl: https://jysoolee.github.io/files/CTwatchquarterly-5.pdf
 bibtexurl: 
 citation: 
 ---
