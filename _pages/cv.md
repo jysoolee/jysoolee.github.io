@@ -26,9 +26,9 @@ Work Experience
 
 * 1998.10 ~ 2001.9: Assistant Research Professor, Korea University (Korea)
 
-* 2001.10 ~ 2003.2: Senior Researcher, KISTI (Korea Institute of Science and Technology Information) (Korea)
+* 2001.10 ~ 2003.11: Senior Researcher, KISTI (Korea Institute of Science and Technology Information) (Korea)
 
-* 2003.3 ~ 2016.5: Principal Researcher, KISTI (Korea)
+* 2003.11 ~ 2016.5: Principal Researcher, KISTI (Korea)
 
 * 2003.3 ~ 2006.12: Director of Supercomputing Center, KISTI (Korea)
   
