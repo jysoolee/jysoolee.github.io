@@ -40,7 +40,7 @@ Work Experience
 
 * 2016.5 ~ 2017.6: Director of Supercomputing Core Lab, KAUST (King Abdullah University of Science and Technology) (Saudi Arabia)
 
-* 2017.7 ~ 2025.5: Facilities Director of Research Computing Core Labs, KAUST (King Abdullah University of Science and Technology) (Saudi Arabia)
+* 2017.7 ~ 2025.5: Facilities Director of Research Computing Core Labs, KAUST (Saudi Arabia)
 
   
 Skills
