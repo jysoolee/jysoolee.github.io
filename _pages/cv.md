@@ -18,7 +18,7 @@ Education
 
 Work Experience
 ======
-* 1991.10 ~ 1993.8: Research Associate, HLRZ (Hochstleistungsrechenzentrum), Julich (Germany)
+* 1991.10 ~ 1993.8: Research Associate, HLRZ (Hochstleistungsrechenzentrum), Forschungszentrum Jülich (Germany)
 
 * 1993.10 ~ 1997.9: Research Associate, City College of New York (USA)
 
@@ -26,12 +26,16 @@ Work Experience
 
 * 1998.10 ~ 2001.9: Assistant Research Professor, Korea University (Korea)
 
-* 1998. 10 ~ 2001. 9: Assistant Research Professor, Korea University (Korea)
+* 2001.10 ~ 2003.2: Senior Researcher, KISTI (Korea Institute of Science and Technology Information (Korea)
 
-* 1998. 10 ~ 2001. 9: Assistant Research Professor, Korea University (Korea)
+* 2001.10 ~ 2003.2: Senior Researcher, KISTI (Korea Institute of Science and Technology Information (Korea)
+  
+* 2001.10 ~ 2003.2: Senior Researcher, KISTI (Korea Institute of Science and Technology Information (Korea)
 
-* 1998. 10 ~ 2001. 9: Assistant Research Professor, Korea University (Korea)
+* 2001.10 ~ 2003.2: Senior Researcher, KISTI (Korea Institute of Science and Technology Information (Korea)
 
+* 2001.10 ~ 2003.2: Senior Researcher, KISTI (Korea Institute of Science and Technology Information (Korea)
+  
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
