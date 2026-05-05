@@ -16,15 +16,15 @@ Education
 * B.S. in Physics, Seoul National University, 1985
 
 
-Work experience
+Work Experience
 ======
-* 1991. 10 ~ 1993. 8: Research Associate, HLRZ (Hochstleistungsrechenzentrum), Julich (Germany)
+* 1991.10 ~ 1993.8: Research Associate, HLRZ (Hochstleistungsrechenzentrum), Julich (Germany)
 
-* 1993. 10 ~ 1997. 9: Research Associate, City College of New York (USA)
+* 1993.10 ~ 1997.9: Research Associate, City College of New York (USA)
 
-* 1997. 9 ~ 1998. 9: Assistant Visiting Professor, Seoul National University (Korea)
+* 1997.9 ~ 1998.9: Assistant Visiting Professor, Seoul National University (Korea)
 
-* 1998. 10 ~ 2001. 9: Assistant Research Professor, Korea University (Korea)
+* 1998.10 ~ 2001.9: Assistant Research Professor, Korea University (Korea)
 
 * 1998. 10 ~ 2001. 9: Assistant Research Professor, Korea University (Korea)
 
