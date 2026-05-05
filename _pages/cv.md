@@ -19,29 +19,17 @@ Education
 Work Experience
 ======
 * 1991.10 ~ 1993.8: Research Associate, HLRZ (Hochstleistungsrechenzentrum), Forschungszentrum Jülich (Germany)
-
 * 1993.10 ~ 1997.9: Research Associate, City College of New York (USA)
-
 * 1997.9 ~ 1998.9: Assistant Visiting Professor, Seoul National University (Korea)
-
 * 1998.10 ~ 2001.9: Assistant Research Professor, Korea University (Korea)
-
 * 2001.10 ~ 2003.11: Senior Researcher, KISTI (Korea Institute of Science and Technology Information) (Korea)
-
-* 2003.11 ~ 2016.5: Principal Researcher, KISTI (Korea)
-
 * 2003.1 ~ 2004.2: Lead of Supercomputing Research Team, KISTI (Korea)
-  
-* 2004.3 ~ 2006.12: Director of Supercomputing Center, KISTI (Korea)
-  
+* 2003.11 ~ 2016.5: Principal Researcher, KISTI (Korea)
+* 2004.3 ~ 2006.12: Director of Supercomputing Center, KISTI (Korea) 
 * 2007.6 ~ 2008.7: Visiting Professor, Calit2 (California Institute for Telecommunications and Information Technology), University of California San Diego (USA)
-
-* 2009.1 ~ 2012.12: Director of Supercomputing Center, KISTI (Korea)
-  
+* 2009.1 ~ 2012.12: Director of Supercomputing Center, KISTI (Korea) 
 * 2013.1 ~ 2014.12: Founding Director General, National Institute of Supercomputing and Networking, KISTI (Korea)
-
 * 2016.5 ~ 2017.6: Director of Supercomputing Core Lab, KAUST (King Abdullah University of Science and Technology) (Saudi Arabia)
-
 * 2017.7 ~ 2025.5: Facilities Director of Research Computing Core Labs, KAUST (Saudi Arabia)
 
   
