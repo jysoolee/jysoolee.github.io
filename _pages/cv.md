@@ -15,6 +15,7 @@ Education
 * M.S. in Physics, University of Pittsburgh, 1986
 * B.S. in Physics, Seoul National University, 1985
 
+
 Work experience
 ======
 * 1991. 10 ~ 1993. 8: Research Associate, HLRZ (Hochstleistungsrechenzentrum), Julich (Germany)
