@@ -32,7 +32,7 @@ Work Experience
 
 * 2003.3 ~ 2006.12: Director of Supercomputing Center, KISTI (Korea)
   
-* 2007.6 ~ 2008.7: Visiting Professor, Calit2 (California Institute for Telecommunications and Information Technology), University of California San Diego, USA (Korea)
+* 2007.6 ~ 2008.7: Visiting Professor, Calit2 (California Institute for Telecommunications and Information Technology), University of California San Diego (USA)
 
 * 2009.1 ~ 2012.12: Director of Supercomputing Center, KISTI (Korea)
   
