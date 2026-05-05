@@ -17,17 +17,20 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 1991. 10 ~ 1993. 8: Research Associate, HLRZ (Hochstleistungsrechenzentrum), Julich (Germany)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 1993. 10 ~ 1997. 9: Research Associate, City College of New York (USA)
 
-* Summer 2015: Research Assistant
+* 1997. 9 ~ 1998. 9: Assistant Visiting Professor, Seoul National University (Korea)
+
+* 1998. 10 ~ 2001. 9: Assistant Research Professor, Korea University (Korea)
+
+* 1998. 10 ~ 2001. 9: Assistant Research Professor, Korea University (Korea)
+
+* 1998. 10 ~ 2001. 9: Assistant Research Professor, Korea University (Korea)
+
+* 1998. 10 ~ 2001. 9: Assistant Research Professor, Korea University (Korea)
+
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
