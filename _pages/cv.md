@@ -30,7 +30,9 @@ Work Experience
 
 * 2003.11 ~ 2016.5: Principal Researcher, KISTI (Korea)
 
-* 2003.3 ~ 2006.12: Director of Supercomputing Center, KISTI (Korea)
+* 2003.1 ~ 2004.2: Lead of Supercomputing Research Team, KISTI (Korea)
+  
+* 2004.3 ~ 2006.12: Director of Supercomputing Center, KISTI (Korea)
   
 * 2007.6 ~ 2008.7: Visiting Professor, Calit2 (California Institute for Telecommunications and Information Technology), University of California San Diego (USA)
 
