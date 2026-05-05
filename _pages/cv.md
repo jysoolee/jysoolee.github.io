@@ -28,17 +28,20 @@ Work Experience
 
 * 2001.10 ~ 2003.2: Senior Researcher, KISTI (Korea Institute of Science and Technology Information) (Korea)
 
+* 2003.3 ~ 2016.5: Principal Researcher, KISTI (Korea)
+
 * 2003.3 ~ 2006.12: Director of Supercomputing Center, KISTI (Korea)
   
-* 2001.10 ~ 2003.2: Senior Researcher, KISTI (Korea Institute of Science and Technology Information (Korea)
+* 2007.6 ~ 2008.7: Visiting Professor, Calit2 (California Institute for Telecommunications and Information Technology), University of California San Diego, USA (Korea)
 
-* 2001.10 ~ 2003.2: Senior Researcher, KISTI (Korea Institute of Science and Technology Information (Korea)
-
-* 2001.10 ~ 2003.2: Senior Researcher, KISTI (Korea Institute of Science and Technology Information (Korea)
+* 2009.1 ~ 2012.12: Director of Supercomputing Center, KISTI (Korea)
   
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2013.1 ~ 2014.12: Founding Director General, National Institute of Supercomputing and Networking, KISTI (Korea)
+
+* 2016.5 ~ 2017.6: Director of Supercomputing Core Lab, KAUST (King Abdullah University of Science and Technology) (Saudi Arabia)
+
+* 2017.7 ~ 2025.5: Facilities Director of Research Computing Core Labs, KAUST (King Abdullah University of Science and Technology) (Saudi Arabia)
+
   
 Skills
 ======
