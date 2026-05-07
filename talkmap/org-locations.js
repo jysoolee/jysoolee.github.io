@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "Towards National HPC/AI Ecosystem<br />The 12th Saudi HPC/AI Conference; King Khalid University, Abha (Saudi Arabia)",
+    "Toward National HPC/AI Ecosystem<br />The 12th Saudi HPC/AI Conference; King Khalid University, Abha (Saudi Arabia)",
     18.0884354,
     42.713291
   ],
