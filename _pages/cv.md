@@ -18,8 +18,8 @@ Education
 
 Work Experience
 ======
-* 2017.7 ~ 2025.5: Facilities Director of Research Computing Core Labs, KAUST (Saudi Arabia)
-* 2016.5 ~ 2017.6: Director of Supercomputing Core Lab, KAUST (King Abdullah University of Science and Technology) (Saudi Arabia)
+* 2017.7 ~ 2025.5: Facilities Director of Research Computing Core Labs, KAUST (King Abdullah University of Science and Technology) (Saudi Arabia)
+* 2016.5 ~ 2017.6: Director of Supercomputing Core Lab, KAUST (Saudi Arabia)
 * 2013.1 ~ 2014.12: Founding Director General, National Institute of Supercomputing and Networking, KISTI (Korea)
 * 2009.1 ~ 2012.12: Director of Supercomputing Center, KISTI (Korea)
 * 2007.6 ~ 2008.7: Visiting Professor, Calit2 (California Institute for Telecommunications and Information Technology), University of California San Diego (USA)
