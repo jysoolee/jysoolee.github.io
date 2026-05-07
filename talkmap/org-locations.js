@@ -1,13 +1,13 @@
 var addressPoints = [
   [
+    "Building HPC/AI Ecosystem in the Kingdom of Saudi Arabia<br />81st HPC User Forum; Stuttgart (Germany)",
+    48.7784485,
+    9.1800132
+  ],
+  [
     "Toward National HPC/AI Ecosystem<br />The 12th Saudi HPC/AI Conference; King Khalid University, Abha (Saudi Arabia)",
     18.0884354,
     42.713291
-  ],
-  [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
   ],
   [
     "HPC Activities at KAUST<br />56th Meeting of the Asia Pacific Advanced Network; Colombo (Sri Lanka)",
