@@ -10,7 +10,7 @@ var addressPoints = [
     -0.1277653
   ],
   [
-    "HPC Activities at KAUST<br />56th Meeting of the Asia Pacific Advanced Network; Colombo, Sri Lanka",
+    "HPC Activities at KAUST<br />56th Meeting of the Asia Pacific Advanced Network; Colombo (Sri Lanka)",
     6.9388614,
     79.8542005
   ],
