@@ -15,6 +15,11 @@ var addressPoints = [
     42.713291
   ],
   [
+    "Building HPC/AI Ecosystem in the Kingdom of Saudi Arabia<br />81st HPC User Forum; Stuttgart (Germany)",
+    48.7784485,
+    9.1800132
+  ],
+  [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
     37.8708393,
     -122.272863
