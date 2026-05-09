@@ -15,9 +15,9 @@ var addressPoints = [
     42.713291
   ],
   [
-    "Building HPC/AI Ecosystem in the Kingdom of Saudi Arabia<br />81st HPC User Forum; Stuttgart (Germany)",
-    48.7784485,
-    9.1800132
+    "HPC Collaboration with Industry<br />Intel eXtreme Performance Users Group Spring Conference 2018; KAUST, Thuwal (Saudi Arabia)",
+    22.3223754,
+    39.1173835
   ],
   [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
