@@ -1,10 +1,5 @@
 var addressPoints = [
   [
-    "Building HPC AI Ecosystem in the Kingdom of Saudi Arabia<br />81st HPC User Forum; Stuttgart (Germany)",
-    48.7784485,
-    9.1800132
-  ],
-  [
     "HPC / AI Activities at KAUST and the Middle East<br />83rd HPC User Forum; Tucson (USA)",
     32.2228765,
     -110.974847
