@@ -2,7 +2,7 @@
 title: "International Organizations"
 collection: teaching
 type: 
-permalink: /teaching/organizations
+permalink: /teaching/2026-organizations
 venue:
 date: 
 location: 
