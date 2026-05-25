@@ -8,9 +8,9 @@ date: 2026-05-25
 location: 
 ---
 
-Heading 1
+SCAsia (Supercomputing Asia Conference)
 ======
-SCAsia(Supercomputing Asia Conference): Member, Steering Committee (2019~2025)
+Member, Steering Committee (2019~2025)
 	
 Heading 2
 ======
