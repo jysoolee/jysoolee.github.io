@@ -4,7 +4,7 @@ collection: teaching
 type: 
 permalink: /teaching/2026-spring-organizations
 venue:
-date: 
+date: 2026-05-25
 location: 
 ---
 
