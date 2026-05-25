@@ -1,5 +1,5 @@
 ---
-title: "International Organizations"
+title: "Professional Organizations"
 collection: teaching
 type: 
 permalink: /teaching/2026-spring-organizations
@@ -7,6 +7,8 @@ venue:
 date: 2026-05-25
 location: 
 ---
+
+Participation in Professional Organizations
 
 HALO (HPC-AI Leadership Organization): https://hpcaileadership.org/
 ======
