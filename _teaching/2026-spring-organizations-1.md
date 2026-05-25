@@ -8,7 +8,7 @@ date: 2026-05-25
 location: 
 ---
 
-SCAsia (Supercomputing Asia Conference)
+SCAsia(Supercomputing Asia Conference): http://sc-asia.org
 ======
 Member, Steering Committee (2019~2025)
 	
