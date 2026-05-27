@@ -2,7 +2,7 @@
 title: "Professional Organizations"
 collection: teaching
 type: 
-permalink: /teaching/2026-spring-organizations
+permalink: /teaching/2026-organizations
 venue:
 date: 2026-05-25
 location: 
