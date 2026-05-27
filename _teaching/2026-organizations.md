@@ -11,11 +11,12 @@ location:
 Participation in Professional Organizations
 ======
 
+
 [HALO (HPC-AI Leadership Organization)](https://hpcaileadership.org/)
 ======
 Member, Advisory Committee (2025~)
 
-SCAsia(Supercomputing Asia Conference): https://sc-asia.org
+[SCAsia(Supercomputing Asia Conference)](https://sc-asia.org)
 ======
 Member, Steering Committee (2019~2025)
 
