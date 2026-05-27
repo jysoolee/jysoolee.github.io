@@ -11,7 +11,7 @@ location:
 Participation in Professional Organizations
 ======
 
-HALO (HPC-AI Leadership Organization): https://hpcaileadership.org/
+[HALO (HPC-AI Leadership Organization)](https://hpcaileadership.org/)
 ======
 Member, Advisory Committee (2025~)
 
