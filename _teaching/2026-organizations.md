@@ -21,5 +21,13 @@ Member, Advisory Committee (2025~)
 ======
 Member, Steering Committee (2019~2025)
 
+HPC/AI Saudi(Saudi High-Performance Computing & Artificial Intelligence Conference)
+======
+Member, National Organizing Committee (2017~2025)
+
+[HPC User Forum](https://www.hpcuserforum.com/)
+======
+Member, Steering Committee (2013~2025)
+
 Heading 3
 ======
