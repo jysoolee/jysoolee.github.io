@@ -10,7 +10,6 @@ location:
 
 Participation in Professional Organizations
 ======
-
 ======
 
 [HALO (HPC-AI Leadership Organization)](https://hpcaileadership.org/)
