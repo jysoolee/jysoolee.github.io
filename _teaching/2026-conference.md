@@ -25,5 +25,9 @@ SC(Supercomputing Conference)
 ======
 Member, Steering Committee (2013~)
 
+ISC(International Supercomputing Conference)
+======
+Member, Steering Committee (2007~)
+
 Heading 3
 ======
