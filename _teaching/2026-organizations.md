@@ -1,5 +1,5 @@
 ---
-title: "Professional Organizations"
+title: "Organizations"
 collection: teaching
 type: 
 permalink: /teaching/2026-organizations
