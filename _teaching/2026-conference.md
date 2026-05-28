@@ -1,5 +1,5 @@
 ---
-title: "Conference"
+title: "Participation in Conferences"
 collection: teaching
 type: 
 permalink: /teaching/2026-conference
