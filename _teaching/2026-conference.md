@@ -21,5 +21,9 @@ HPC/AI Saudi(Saudi High-Performance Computing & Artificial Intelligence Conferen
 ======
 Member, National Organizing Committee (2017~2025)
 
+SC(Supercomputing Conference)
+======
+Member, Steering Committee (2013~)
+
 Heading 3
 ======
