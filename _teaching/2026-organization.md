@@ -29,6 +29,14 @@ Member (2007~)
 ======
 Member, Steering Committee (2013~2025)
 
+Korean National Supercomputing Committee
+======
+Member (2012~2014)
+
+[KSCSE (Korea Society of Computational Sciences and Engineering)](http://www.cse.or.kr/)
+======
+Vice Chair (2019~2014)
+
 [OGF (Open Grid Forum)](https://ogf.org)
 ======
 Member, Advisory Committee (2005~2010)
