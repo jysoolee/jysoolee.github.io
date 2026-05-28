@@ -13,18 +13,30 @@ Participation in Conferences
 
 ----------------------------------------------
 
-[SCAsia(Supercomputing Asia Conference)](https://sc-asia.org)
+[SCAsia (Supercomputing Asia Conference)](https://sc-asia.org)
 ======
 Member, Steering Committee (2019~2025)
 
-HPC/AI Saudi(Saudi High-Performance Computing & Artificial Intelligence Conference)
+HPC/AI Saudi (Saudi High-Performance Computing & Artificial Intelligence Conference)
 ======
 Member, National Organizing Committee (2017~2025)
 
-SC(Supercomputing Conference)
+SC (Supercomputing Conference)
 ======
 Member, Steering Committee (2013~)
 
-ISC(International Supercomputing Conference)
+ISC (International Supercomputing Conference)
 ======
 Member, Steering Committee (2007~)
+
+HPC Asia Conference
+======
+Member, International Advisory Board (2005~)
+
+OGF (Open Grid Forum)
+======
+Member, Advisory Committee (2005~)
+
+PRAGMA (Pacific Rim Application and Grid Middleware Assembly)
+======
+Member, Steering Committee (2002~2006)
