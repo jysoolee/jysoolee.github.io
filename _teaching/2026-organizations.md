@@ -1,8 +1,8 @@
 ---
-title: "Organizations"
+title: "Organization"
 collection: teaching
 type: 
-permalink: /teaching/2026-organizations
+permalink: /teaching/2026-organization
 venue:
 date: 2026-05-25
 location: 
