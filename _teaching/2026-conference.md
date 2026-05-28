@@ -29,6 +29,6 @@ ISC (International Supercomputing Conference)
 ======
 Member, Steering Committee (2007~)
 
-HPC Asia Conference
+HPC Asia (High-Performance Computing Asia Conference)
 ======
 Member, International Advisory Board (2005~)
