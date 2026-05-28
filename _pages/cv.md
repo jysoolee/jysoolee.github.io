@@ -32,7 +32,6 @@ Work Experience
 * 1993.10 ~ 1997.9: Research Associate, City College of New York (USA)
 * 1991.10 ~ 1993.8: Research Associate, HLRZ (Hochstleistungsrechenzentrum), Forschungszentrum Jülich (Germany)
 
-  
 Skills
 ======
 * Skill 1
@@ -41,6 +40,12 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+  
+Professional Affiliations
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Publications
 ======
@@ -53,12 +58,7 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service and leadership
 ======
