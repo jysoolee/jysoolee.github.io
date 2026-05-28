@@ -34,12 +34,24 @@ Work Experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Executive Leadership & Strategy
+  * Executive Leadership
+  * Mega-Project Budgeting
+  * Institutional Directorship
+  * National AI Strategy
+  * Sovereign AI Infrastructure
+  * International Consortium Leadership
+  * Industry-Academic Integration
+  * Technology Ecosystems
+  * Strategic Planning
+
+* Technical & Facility Engineering
+  * High-Performance Computing (HPC) Architecture
+  * Large-Scale Compute Clusters
+  * Data Center Power Operations
+  * Capacity Roadmapping
+  * Infrastructure Development
+  * Systems Integration
   
 Professional Affiliations
 ======
