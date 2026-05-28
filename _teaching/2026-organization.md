@@ -29,7 +29,7 @@ Member (2007~)
 ======
 Member, Steering Committee (2013~2025)
 
-OGF (Open Grid Forum)
+[OGF (Open Grid Forum)](https://ogf.org)
 ======
 Member, Advisory Committee (2005~)
 
