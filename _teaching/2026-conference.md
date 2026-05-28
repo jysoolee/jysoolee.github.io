@@ -23,12 +23,12 @@ Member, National Organizing Committee (2017~2025)
 
 SC (Supercomputing Conference)
 ======
-Member, Steering Committee (2013~)
+Member, Steering Committee (2013~2016)
 
 ISC (International Supercomputing Conference)
 ======
-Member, Steering Committee (2007~)
+Member, Steering Committee (2007~2019)
 
 HPC Asia (High-Performance Computing Asia Conference)
 ======
-Member, International Advisory Board (2005~)
+Member, International Advisory Board (2005~2015)
