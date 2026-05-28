@@ -24,6 +24,3 @@ Member, Editorial Board (2009~)
 [HPC User Forum](https://www.hpcuserforum.com/)
 ======
 Member, Steering Committee (2013~2025)
-
-Heading 3
-======
