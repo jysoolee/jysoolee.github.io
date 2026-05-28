@@ -52,6 +52,13 @@ Skills
   * Capacity Roadmapping
   * Infrastructure Development
   * Systems Integration
+
+* Scientific Research
+  * Computational Physics
+  * Parallel Algorithms
+  * Molecular Simulation
+  * Complex Systems
+  * Fluid Dynamics
   
 Professional Affiliations
 ======
