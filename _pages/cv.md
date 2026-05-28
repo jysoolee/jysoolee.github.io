@@ -38,15 +38,15 @@ Skills
   * Executive Leadership
   * Mega-Project Budgeting
   * Institutional Directorship
-  * National AI Strategy
-  * Sovereign AI Infrastructure
+  * National HPC / AI Strategy
+  * Sovereign HPC / AI Infrastructure
   * International Consortium Leadership
   * Industry-Academic Integration
   * Technology Ecosystems
   * Strategic Planning
 
 * Technical & Facility Engineering
-  * High-Performance Computing (HPC) Architecture
+  * High-Performance Computing (HPC)
   * Large-Scale Compute Clusters
   * Data Center Power Operations
   * Capacity Roadmapping
