@@ -27,6 +27,10 @@ Member, Editorial Board (2009~)
 ======
 Member (2007~)
 
+[KPS (Korean Physical Society)](https://www.pragma-grid.net/)
+======
+Member (2001~) & Fellow (2015~)
+
 [HPC User Forum](https://www.hpcuserforum.com/)
 ======
 Member, Steering Committee (2013~2025)
@@ -46,9 +50,5 @@ Member, Advisory Committee (2005~2010)
 [PRAGMA (Pacific Rim Application and Grid Middleware Assembly)](https://www.kps.or.kr/)
 ======
 Member, Steering Committee (2002~2006)
-
-[KPS (Korean Physical Society)](https://www.pragma-grid.net/)
-======
-Member (2001~) & Fellow (2015~)
 
 ----------------------------------------------
