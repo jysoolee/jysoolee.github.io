@@ -14,6 +14,7 @@ Education
 * Ph.D in Physics, Boston University, 1992
 * M.S. in Physics, University of Pittsburgh, 1986
 * B.S. in Physics, Seoul National University, 1985
+<br>
 
 Work Experience
 ======
@@ -30,6 +31,7 @@ Work Experience
 * 1997.9 ~ 1998.9: Assistant Visiting Professor, Seoul National University (Korea)
 * 1993.10 ~ 1997.9: Research Associate, City College of New York (USA)
 * 1991.10 ~ 1993.8: Research Associate, HLRZ (Hochstleistungsrechenzentrum), Forschungszentrum Jülich (Germany)
+<br>
 
 Skills
 ======
@@ -58,7 +60,8 @@ Skills
   * Molecular Simulation
   * Complex Systems
   * Fluid Dynamics
-  
+<br>
+
 Professional Affiliations
 ======
   <ul>{% for post in site.teaching reversed %}
