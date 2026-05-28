@@ -43,6 +43,10 @@ Vice Chair (2019~2014)
 ======
 Member, Advisory Committee (2005~2010)
 
-[PRAGMA (Pacific Rim Application and Grid Middleware Assembly)](https://www.pragma-grid.net/)
+[PRAGMA (Pacific Rim Application and Grid Middleware Assembly)](https://www.kps.or.kr/)
 ======
 Member, Steering Committee (2002~2006)
+
+[KPS (Korean Physical Society)](https://www.pragma-grid.net/)
+======
+Member (2001~) & Fellow (2015~)
