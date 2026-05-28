@@ -60,6 +60,8 @@ Talks
   {% endfor %}</ul>
 
   
-Service and leadership
+Recognitions
 ======
-* Currently signed in to 43 different slack teams. To be modified.
+* 2025. 7: Selected as 35 Legends 2025 by HPCwire
+* 2022. 3: Received HPC Leadership / Achievement Award by SupercomputingAsia
+* 2018. 3: Selected as People to Watch 2018 by HPCwire
