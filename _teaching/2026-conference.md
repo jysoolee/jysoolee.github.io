@@ -32,11 +32,3 @@ Member, Steering Committee (2007~)
 HPC Asia Conference
 ======
 Member, International Advisory Board (2005~)
-
-OGF (Open Grid Forum)
-======
-Member, Advisory Committee (2005~)
-
-PRAGMA (Pacific Rim Application and Grid Middleware Assembly)
-======
-Member, Steering Committee (2002~2006)
