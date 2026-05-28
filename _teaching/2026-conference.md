@@ -8,7 +8,7 @@ date: 2026-05-28
 location: 
 ---
 
-Participation in Professional Organizations
+Participation in Conferences
 ======
 
 ----------------------------------------------
@@ -28,6 +28,3 @@ Member, Steering Committee (2013~)
 ISC(International Supercomputing Conference)
 ======
 Member, Steering Committee (2007~)
-
-Heading 3
-======
