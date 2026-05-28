@@ -28,3 +28,11 @@ Member (2007~)
 [HPC User Forum](https://www.hpcuserforum.com/)
 ======
 Member, Steering Committee (2013~2025)
+
+OGF (Open Grid Forum)
+======
+Member, Advisory Committee (2005~)
+
+PRAGMA (Pacific Rim Application and Grid Middleware Assembly)
+======
+Member, Steering Committee (2002~2006)
