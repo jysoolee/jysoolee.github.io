@@ -21,11 +21,11 @@ HPC/AI Saudi (Saudi High-Performance Computing & Artificial Intelligence Confere
 ======
 Member, National Organizing Committee (2017~2025)
 
-SC (Supercomputing Conference)
+[SC (Supercomputing Conference)](https://supercomputing.org/)
 ======
 Member, Steering Committee (2013~2016)
 
-ISC (International Supercomputing Conference)
+[ISC (International Supercomputing Conference)](https://isc-hpc.com/)
 ======
 Member, Steering Committee (2007~2019)
 
