@@ -24,9 +24,9 @@ repository               : "jysoolee/jysoolee.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Distinguished leader in high-performance computing and artificial intelligence"
+  name             : ""
   pronouns         : # example: "she/her"  
-  bio              : "Jysoo Lee was Facilities Director of Research Computing Core Labs at KAUST, responsible for KAUST’s supercomputing, artificial intelligence, and visualization services. Before this role, Lee was director of Supercomputing Center in KISTI (Korea Institute of Science and Technology Information) from 2004 to 2006 and from 2009 to 2012, and Founding Director General of NISN (National Institute of Supercomputing and Networking) in Korea for 2013 to 2014.
+  bio              : "Distinguished leader in high-performance computing and artificial intelligenceJysoo Lee was Facilities Director of Research Computing Core Labs at KAUST, responsible for KAUST’s supercomputing, artificial intelligence, and visualization services. Before this role, Lee was director of Supercomputing Center in KISTI (Korea Institute of Science and Technology Information) from 2004 to 2006 and from 2009 to 2012, and Founding Director General of NISN (National Institute of Supercomputing and Networking) in Korea for 2013 to 2014.
 Lee led numerous national initiatives such as Korean National Grid Project of K*Grid and Korean National e-Science Project, and has been involved in international organizations such as the OGF (Open Grid Forum), PRAGMA (Pacific Rim Application and Grid Middleware Assembly), and GLORIAD (Global Ring Network for Advanced Applications Development). He was the Chief Professor for the Grid and Supercomputing Program of Korea’s University of Science and Technology.
 He received a B.S. from Seoul National University in Korea and a Ph.D. from Boston University, both in physics. He was visiting scholar at Julich Supercomputing Center in Germany, and was visiting professor at the University of California at San Diego.
 "
