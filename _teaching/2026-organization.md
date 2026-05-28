@@ -33,6 +33,6 @@ OGF (Open Grid Forum)
 ======
 Member, Advisory Committee (2005~)
 
-PRAGMA (Pacific Rim Application and Grid Middleware Assembly)
+[PRAGMA (Pacific Rim Application and Grid Middleware Assembly](https://www.pragma-grid.net/)
 ======
 Member, Steering Committee (2002~2006)
