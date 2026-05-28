@@ -62,6 +62,6 @@ Talks
   
 Recognitions
 ======
-* 2025. 7: [Selected as 35 Legends 2025 by HPCwire](https://www.hpcwire.com/35-hpc-legends-jysoo-lee/)
-* 2022. 3: [Received HPC Leadership / Achievement Award by SupercomputingAsia](https://www.kaust.edu.sa/en/news/jysoo-lee-honored-for-hpc-leadership---contributions)
-* 2018. 3: [Selected as People to Watch 2018 by HPCwire](https://www.hpcwire.com/people-to-watch-2018/11/)
+* 2025.7: [Selected as 35 Legends 2025 by HPCwire](https://www.hpcwire.com/35-hpc-legends-jysoo-lee/)
+* 2022.3: [Received HPC Leadership / Achievement Award by SupercomputingAsia](https://www.kaust.edu.sa/en/news/jysoo-lee-honored-for-hpc-leadership---contributions)
+* 2018.3: [Selected as People to Watch 2018 by HPCwire](https://www.hpcwire.com/people-to-watch-2018/11/)
