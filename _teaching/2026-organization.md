@@ -31,8 +31,8 @@ Member, Steering Committee (2013~2025)
 
 [OGF (Open Grid Forum)](https://ogf.org)
 ======
-Member, Advisory Committee (2005~)
+Member, Advisory Committee (2005~2010)
 
-[PRAGMA (Pacific Rim Application and Grid Middleware Assembly](https://www.pragma-grid.net/)
+[PRAGMA (Pacific Rim Application and Grid Middleware Assembly)](https://www.pragma-grid.net/)
 ======
 Member, Steering Committee (2002~2006)
