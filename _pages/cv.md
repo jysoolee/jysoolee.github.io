@@ -15,7 +15,6 @@ Education
 * M.S. in Physics, University of Pittsburgh, 1986
 * B.S. in Physics, Seoul National University, 1985
 
-
 Work Experience
 ======
 * 2017.7 ~ 2025.5: Facilities Director of Research Computing Core Labs, KAUST (King Abdullah University of Science and Technology) (Saudi Arabia)
