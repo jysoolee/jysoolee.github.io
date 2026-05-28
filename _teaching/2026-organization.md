@@ -17,6 +17,10 @@ Participation in Professional Organizations
 ======
 Member, Advisory Committee (2025~)
 
+[Journal of Computational Science](https://www.sciencedirect.com/journal/journal-of-computational-science/)
+======
+Member, Editorial Board (2009~)
+
 [HPC User Forum](https://www.hpcuserforum.com/)
 ======
 Member, Steering Committee (2013~2025)
