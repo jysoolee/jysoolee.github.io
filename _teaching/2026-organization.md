@@ -21,6 +21,10 @@ Member, Advisory Committee (2025~)
 ======
 Member, Editorial Board (2009~)
 
+[ACM (Association for Computing Machinery)](https://acm.org/)
+======
+Member (2007~)
+
 [HPC User Forum](https://www.hpcuserforum.com/)
 ======
 Member, Steering Committee (2013~2025)
