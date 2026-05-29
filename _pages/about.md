@@ -13,8 +13,9 @@ In Korea, Lee led numerous national initiatives, such as the Korean National Gri
 
 In Saudi Arabia, he streamlined the research computing infrastructure of $100M+ capital investment and led the procurement of the third-generation flagship supercomputer, Shaheen III. He created a program for impactful collaborations with major in-Kingdom organizations, resulting in three world records with Saudi Aramco, better daily forecasts with Saudi Arabia’s National Center for Meteorology, and major cost savings with the Saudi Electricity Company.
 
-and has been involved in international organizations such as the OGF (Open Grid Forum), PRAGMA (Pacific Rim Application and Grid Middleware Assembly), and GLORIAD (Global Ring Network for Advanced Applications Development). He was the Chief Professor for the Grid and Supercomputing Program of Korea’s University of Science and Technology.
-He received a B.S. from Seoul National University in Korea and a Ph.D. from Boston University, both in physics. He was visiting scholar at Julich Supercomputing Center in Germany, and was visiting professor at the University of California at San Diego.
+He has been actively involved in international organizations - a member of the advisory committee in HALO (HPC-AI Leadership Organization), member of the steering committee in the HPC User Forum, member of the advisory committee of the OGF (Open Grid Forum), and member of the steering committee of PRAGMA (Pacific Rim Application and Grid Middleware Assembly). He was also a member of the steering committees of SCAsia (Supercomputing Asia Conference), HPC/AI Saudi (Saudi High-Performance Computing & Artificial Intelligence Conference), SC (Supercomputing Conference), ISC (International Supercomputing Conference).
+
+He is a member of the editorial board of the Journal of Computational Science. He was the Chief Professor for the Grid and Supercomputing Program of Korea’s University of Science and Technology. He received a B.S. from Seoul National University in Korea and a Ph.D. from Boston University, both in physics. He was a visiting scholar at Julich Supercomputing Center in Germany and was a visiting professor at the University of California at San Diego.
 
 A data-driven personal website
 ======
