@@ -1,14 +1,17 @@
 ---
 permalink: /
-title: "Jysoo Lee's Personal Websites"
+title: "Jysoo Lee's Personal Website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Jysoo Lee was Facilities Director of Research Computing Core Labs at KAUST (King Abdullah University of Science and Technology) in Saudi Arabia, responsible for KAUST’s supercomputing, artificial intelligence, and visualization services. Before this role, Lee was director of Supercomputing Center in KISTI (Korea Institute of Science and Technology Information) and Founding Director General of NISN (National Institute of Supercomputing and Networking) in Korea. 
-Lee led numerous national initiatives such as Korean National Grid Project of K*Grid and Korean National e-Science Project, and has been involved in international organizations such as the OGF (Open Grid Forum), PRAGMA (Pacific Rim Application and Grid Middleware Assembly), and GLORIAD (Global Ring Network for Advanced Applications Development). He was the Chief Professor for the Grid and Supercomputing Program of Korea’s University of Science and Technology.
+Jysoo Lee was Facilities Director of Research Computing Core Labs at KAUST (King Abdullah University of Science and Technology) in Saudi Arabia, responsible for KAUST’s supercomputing, artificial intelligence, and visualization services. Before this role, he was the Director of the Supercomputing Center at KISTI (Korea Institute of Science and Technology Information) and the Founding Director General of NISN (National Institute of Supercomputing and Networking).
+
+Lee led numerous national initiatives, such as the Korean National Grid Project and the Korean National e-Science Project, and spearheaded the legislation of the “National Supercomputing Promotion Act” to enhance people’s quality of life and the nation's economic development through the efficient use of supercomputing. He became the founding Director General of NISN, an organization created to pursue this national objective. At KAUST, he streamlined the research computing infrastructure of $100M+ capital investment, and served the chair of the acquisition committee for the procurement of a third-generation flagship supercomputer, Shaheen III. He created a program for impactful collaborations with major in-Kingdom organizations, resulting in three world records with Saudi Aramco, better daily forecasts with Saudi Arabia’s National Center for Meteorology, and major cost savings with the Saudi Electricity Company. He also created a data science service, consisting of computing infrastructure, training and support programs.
+
+and has been involved in international organizations such as the OGF (Open Grid Forum), PRAGMA (Pacific Rim Application and Grid Middleware Assembly), and GLORIAD (Global Ring Network for Advanced Applications Development). He was the Chief Professor for the Grid and Supercomputing Program of Korea’s University of Science and Technology.
 He received a B.S. from Seoul National University in Korea and a Ph.D. from Boston University, both in physics. He was visiting scholar at Julich Supercomputing Center in Germany, and was visiting professor at the University of California at San Diego.
 
 A data-driven personal website
