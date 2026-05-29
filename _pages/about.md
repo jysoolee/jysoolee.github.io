@@ -1,16 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Jysoo Lee's Personal Websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Can I change this page?
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Jysoo Lee was Facilities Director of Research Computing Core Labs at KAUST (King Abdullah University of Science and Technology) in Saudi Arabia, responsible for KAUST’s supercomputing, artificial intelligence, and visualization services. Before this role, Lee was director of Supercomputing Center in KISTI (Korea Institute of Science and Technology Information) and Founding Director General of NISN (National Institute of Supercomputing and Networking) in Korea. 
+Lee led numerous national initiatives such as Korean National Grid Project of K*Grid and Korean National e-Science Project, and has been involved in international organizations such as the OGF (Open Grid Forum), PRAGMA (Pacific Rim Application and Grid Middleware Assembly), and GLORIAD (Global Ring Network for Advanced Applications Development). He was the Chief Professor for the Grid and Supercomputing Program of Korea’s University of Science and Technology.
+He received a B.S. from Seoul National University in Korea and a Ph.D. from Boston University, both in physics. He was visiting scholar at Julich Supercomputing Center in Germany, and was visiting professor at the University of California at San Diego.
 
 A data-driven personal website
 ======
