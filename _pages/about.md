@@ -17,6 +17,6 @@ He has been actively involved in international organizations, serving on the adv
 
 Lee is an editorial board member for the Journal of Computational Science and formerly served as the Chief Professor for the Grid and Supercomputing Program at the Korea University of Science and Technology. He received his B.S. from Seoul National University and his Ph.D. from Boston University, both in physics. He has held positions as a visiting scholar at the Jülich Supercomputing Centre in Germany and a visiting professor at the University of California, San Diego.
 
-Next Chapter
+My Next Chapter
 ======
-I’m starting a new chapter. My passion now lies in technical diplomacy and empowerment. I am looking to volunteer my expertise to make a real difference, such as helping developing nations and non-profit organizations build the AI and supercomputing infrastructure and community they need to thrive.
+My passion now lies in technical diplomacy and empowerment. I am looking to volunteer my expertise to make a real difference, such as helping developing nations and non-profit organizations build the AI and supercomputing infrastructure and community they need to thrive.
