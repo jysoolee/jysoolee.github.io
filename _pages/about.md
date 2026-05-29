@@ -15,7 +15,7 @@ In Saudi Arabia, he streamlined a research computing infrastructure backed by ov
 
 He has been actively involved in international organizations, serving on the advisory committees for HALO (HPC-AI Leadership Organization) and the OGF (Open Grid Forum), as well as the steering committee for PRAGMA (Pacific Rim Application and Grid Middleware Assembly). Additionally, he has served on the steering committees of major HPC/AI conferences, including SC (Supercomputing Conference), ISC (International Supercomputing Conference), SCAsia (Supercomputing Asia Conference), and HPC/AI Saudi (Saudi High-Performance Computing & Artificial Intelligence Conference).
 
-Lee is an editorial board member for the Journal of Computational Science and formerly served as the Chief Professor for the Grid and Supercomputing Program at the Korea University of Science and Technology. He received his B.S. from Seoul National University and his Ph.D. from Boston University, both in physics. Furthermore, he has held positions as a visiting scholar at the Jülich Supercomputing Centre in Germany and a visiting professor at the University of California, San Diego.
+Lee is an editorial board member for the Journal of Computational Science and formerly served as the Chief Professor for the Grid and Supercomputing Program at the Korea University of Science and Technology. He received his B.S. from Seoul National University and his Ph.D. from Boston University, both in physics. He has held positions as a visiting scholar at the Jülich Supercomputing Centre in Germany and a visiting professor at the University of California, San Diego.
 
 A data-driven personal website
 ======
