@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jysoo Lee's Personal Website"
+title: "Jysoo Lee's Website"
 author_profile: true
 redirect_from: 
   - /about/
