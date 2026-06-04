@@ -21,6 +21,8 @@ Lee is an editorial board member for the Journal of Computational Science and fo
 
 His contributions to the field have earned him significant industry recognition, including being named to HPCwire’s "People to Watch" in 2018 and honored as one of their "35 Legends" in 2025. Additionally, he received the Supercomputing Asia "HPC Leadership / Achievement Award" in 2022.
 
+<br>
+
 Next Chapter
 ======
 My passion now lies in technical diplomacy and empowerment. I am looking to volunteer my expertise to make a real difference, such as helping developing nations and non-profit organizations build the AI and supercomputing infrastructure and community they need to thrive.
