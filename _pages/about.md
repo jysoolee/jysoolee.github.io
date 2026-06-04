@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<br>
+
 Jysoo Lee was the Facilities Director of the Research Computing Core Labs at KAUST (King Abdullah University of Science and Technology) in Saudi Arabia, where he was responsible for the university’s supercomputing, artificial intelligence, and visualization services. Before this role, he served as the Director of the Supercomputing Center at KISTI (Korea Institute of Science and Technology Information) and was the Founding Director General of NISN (National Institute of Supercomputing and Networking).
 
 In Saudi Arabia, he streamlined a research computing infrastructure backed by over $100 million in capital investment and led the procurement of the third-generation flagship supercomputer, Shaheen III. He created a program for impactful collaborations with major in-Kingdom organizations, which resulted in three world records with Saudi Aramco, improved daily forecasts with Saudi Arabia’s National Center for Meteorology, and significant cost savings for the Saudi Electricity Company.
