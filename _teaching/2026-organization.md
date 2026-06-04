@@ -50,5 +50,3 @@ Member, Advisory Committee (2005~2010)
 [PRAGMA (Pacific Rim Application and Grid Middleware Assembly)](https://www.kps.or.kr/)
 ======
 Member, Steering Committee (2002~2006)
-
-----------------------------------------------
