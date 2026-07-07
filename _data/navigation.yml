@@ -11,6 +11,9 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
+  - title: "Blog Posts"
+    url: /year-archive/
+    
   - title: "Professional Affiliation"
     url: /teaching/
     
@@ -19,9 +22,6 @@ main:
 
   - title: "Talks"
     url: /talks/    
-
-  - title: "Blog Posts"
-    url: /year-archive/
 
   - title: "CV"
     url: /cv/
