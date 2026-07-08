@@ -10,7 +10,7 @@ location:
 
 Updated on 2026-05-28
 
-Participation in Conferences
+Participation in Projects
 ======
 
 ----------------------------------------------
@@ -19,18 +19,10 @@ Participation in Conferences
 ======
 Member, Steering Committee (2019~2025)
 
-HPC/AI Saudi (Saudi High-Performance Computing & Artificial Intelligence Conference)
+GigaPort3 led by SURFnet(Dutch National Research and Education Network)
 ======
 Member, National Organizing Committee (2017~2025)
 
-[SC (Supercomputing Conference)]()
+[FKPPN(France Korea Particle Physics and e-science Laboratory)](https://fkppn.in2p3.fr/fkppl/)
 ======
 Member, Steering Committee (2013~2016)
-
-[ISC (International Supercomputing Conference)](https://isc-hpc.com/)
-======
-Member, Steering Committee (2007~2019)
-
-HPC Asia (High-Performance Computing Asia Conference)
-======
-Member, International Advisory Board (2005~2015)
