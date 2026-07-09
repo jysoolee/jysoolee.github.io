@@ -15,14 +15,14 @@ Participation in Projects
 
 ----------------------------------------------
 
-[GLORIAD(Global Ring Network for Advanced Application Development)](https://en.wikipedia.org/wiki/GLORIAD)
+[FKPPN(France Korea Particle Physics and e-science Laboratory)](https://fkppn.in2p3.fr/fkppl)
 ======
-Member, Steering Committee (2019~2025)
+Co-chair, Steering Committee (2012~2015)
 
 GigaPort3 led by SURFnet(Dutch National Research and Education Network)
 ======
-Member, National Organizing Committee (2017~2025)
+Member, Scientific Advisory Board (2010~2014)
 
-[FKPPN(France Korea Particle Physics and e-science Laboratory)](https://fkppn.in2p3.fr/fkppl)
+[GLORIAD(Global Ring Network for Advanced Application Development)](https://en.wikipedia.org/wiki/GLORIAD)
 ======
-Member, Steering Committee (2013~2016)
+Member, Steering Committee (2006~2015)
