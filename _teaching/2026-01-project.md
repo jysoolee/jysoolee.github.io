@@ -2,7 +2,7 @@
 title: "Participation in Projects"
 collection: teaching
 type: 
-permalink: /teaching/2026-project
+permalink: /teaching/2026-01-project
 venue:
 date: 2026-05-28
 location: 
