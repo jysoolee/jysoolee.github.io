@@ -2,7 +2,7 @@
 title: "Participation in Conferences"
 collection: teaching
 type: 
-permalink: /teaching/2026-conference
+permalink: /teaching/2026-02-conference
 venue:
 date: 2026-05-28
 location: 
