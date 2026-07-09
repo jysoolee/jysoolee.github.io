@@ -23,6 +23,6 @@ GigaPort3 led by SURFnet(Dutch National Research and Education Network)
 ======
 Member, National Organizing Committee (2017~2025)
 
-[FKPPN(France Korea Particle Physics and e-science Laboratory)](https://fkppn.in2p3.fr/fkppl/)
+[FKPPN(France Korea Particle Physics and e-science Laboratory)](https://fkppn.in2p3.fr/fkppl)
 ======
 Member, Steering Committee (2013~2016)
