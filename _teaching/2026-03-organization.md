@@ -41,7 +41,7 @@ Member (2012~2014)
 
 [KSCSE (Korea Society of Computational Sciences and Engineering)](http://www.cse.or.kr/)
 ======
-Vice Chair (2019~2014)
+Vice Chair (2009~2014)
 
 [OGF (Open Grid Forum)](https://ogf.org)
 ======
