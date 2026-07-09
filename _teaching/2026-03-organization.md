@@ -2,7 +2,7 @@
 title: "Participation in Professional Organizations"
 collection: teaching
 type: 
-permalink: /teaching/2026-organization
+permalink: /teaching/2026-03-organization
 venue:
 date: 2026-05-28
 location: 
