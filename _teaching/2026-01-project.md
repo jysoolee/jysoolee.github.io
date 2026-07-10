@@ -15,7 +15,7 @@ Participation in Projects
 
 ----------------------------------------------
 
-[FKPPN(France Korea Particle Physics and e-science Laboratory)](https://fkppn.in2p3.fr/fkppl)
+[FKPPL(France Korea Particle Physics and e-science Laboratory)](https://fkppn.in2p3.fr/fkppl)
 ======
 Co-chair, Steering Committee (2012~2015)
 
