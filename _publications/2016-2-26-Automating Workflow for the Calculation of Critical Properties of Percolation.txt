@@ -7,7 +7,7 @@ excerpt:
 date: 2016-2-26
 venue: 'Unpublished'
 slidesurl: 
-paperurl: https://jysoolee.github.io/files/KRKKJLL.pdf
+paperurl: files/Workflow.pdf
 bibtexurl: 
 citation: 
 ---
